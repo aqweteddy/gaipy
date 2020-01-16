@@ -1,9 +1,0 @@
-README.md
-setup.py
-gaipy/__init__.py
-gaipy/basic.py
-gaipy/gaisdb.py
-gaipy.egg-info/PKG-INFO
-gaipy.egg-info/SOURCES.txt
-gaipy.egg-info/dependency_links.txt
-gaipy.egg-info/top_level.txt
