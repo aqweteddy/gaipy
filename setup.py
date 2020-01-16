@@ -10,7 +10,7 @@ setup(
     url="",
     license="MIT",
     include_package_data=True,
-    packages=['gaipy', 'gaipy.*'],
+    packages=find_packages(include=["gaipy","gaipy.*"]),
     install_requires=requirements
     # scripts=["scripts/test.py"],
 )
